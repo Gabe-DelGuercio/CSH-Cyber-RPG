@@ -1,6 +1,6 @@
 Hello!
 
-Welcome to Software Development & Problem Solving I, the first course in a year-long introductory programming sequence with an emphasis on software engineering, incremental development, and testing.
+Welcome to GCIS-123 Software Development & Problem Solving I, the first course in a year-long introductory programming sequence with an emphasis on software engineering, incremental development, and testing.
 
 If you are reading this, then you have accepted the invitation to your very first homework assignment. Congratulations! Please read the instructions in the assignment carefully and follow them. 
 
