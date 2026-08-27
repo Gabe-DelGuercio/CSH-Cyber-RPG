@@ -1,0 +1,29 @@
+commit f2ae362cf8895f9c5e0d2ced2aec880f1970100c
+Author: Ezgi Siir Kibris <eskics@rit.edu>
+Date:   Thu Aug 27 19:18:09 2026 -0400
+
+    change me.txt
+
+commit bb98e7a457d211d39b8ed2b461c4fc40b7f10f4b
+Author: Ezgi Siir Kibris <eskics@rit.edu>
+Date:   Thu Aug 27 19:15:12 2026 -0400
+
+    initial commit
+
+commit e043b667ebf4b3af7d58d02ab480642e675ead0a
+Author: Erik Golen <efgics@rit.edu>
+Date:   Sun Aug 16 20:09:40 2026 +0000
+
+    Edit README.md
+
+commit ff3a419fde53b513204eecb409aa7bb39a915171
+Author: Erik Golen <133790013+efgics@users.noreply.github.com>
+Date:   Sun Aug 10 14:03:05 2025 -0400
+
+    Update README.md
+
+commit 7b5bb0c2b5de836efea59295f2c019eec8ce2195
+Author: Erik Golen <133790013+efgics@users.noreply.github.com>
+Date:   Sun Aug 10 13:50:55 2025 -0400
+
+    Initial commit
